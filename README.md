@@ -8,9 +8,9 @@ O projeto foi planejado para oferecer uma **experiência de compra rápida, intu
 ##  🌐 link do site do projeto
 
 ```bash
-
+https://filiple15.github.io/PeleSobrePele/Pele-sobre-Pele/Index.html
 ```
-<a href="" target="_blank">
+<a href="https://filiple15.github.io/PeleSobrePele/Pele-sobre-Pele/Index.html" target="_blank">
   Abrir site
 </a>
 
