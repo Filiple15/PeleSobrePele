@@ -1,4 +1,4 @@
-# 👕 Pele Sobre Pele
+# Loja Pele Sobre Pele
 
 Um site desenvolvido para a loja **Pele Sobre Pele**, com o objetivo de ampliar a presença digital da marca e aumentar as vendas de suas coleções de roupas.  
 O projeto foi planejado para oferecer uma **experiência de compra rápida, intuitiva e sofisticada**, destacando os produtos, gerando confiança nos visitantes e criando uma jornada de compra eficaz.
@@ -18,8 +18,8 @@ https://filiple15.github.io/PeleSobrePele/Pele-sobre-Pele/Index.html
 
 ## 🌟 Tecnologias Utilizadas
 
-- **HTML5** – Estrutura semântica do site.  
-- **CSS3** – Estilização, responsividade e design moderno.  
+- **HTML** – Estrutura semântica do site.  
+- **CSS** – Estilização, responsividade e design moderno.  
 - **JavaScript** – Interatividade e funcionalidades dinâmicas.  
 
 ---
