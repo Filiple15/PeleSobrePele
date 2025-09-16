@@ -5,7 +5,7 @@ O projeto foi planejado para oferecer uma **experiência de compra rápida, intu
 
 ---
 
-##  🌐 link do site do projeto
+##  🌐 Link para acessar o Site:
 
 ```bash
 https://filiple15.github.io/PeleSobrePele/Pele-sobre-Pele/Index.html
