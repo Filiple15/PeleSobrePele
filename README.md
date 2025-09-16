@@ -8,7 +8,7 @@ O projeto foi planejado para oferecer uma **experiência de compra rápida, intu
 ##  🌐 link do site do projeto
 
 ```bash
-https://filiple15.github.io/Site-AdamSandler/lamoda/index.html
+
 ```
 <a href="" target="_blank">
   Abrir site
